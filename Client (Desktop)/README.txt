@@ -1,0 +1,1 @@
+Ce programme est a exécuter sur la machine qui servira à controller les cartes, et à communiquer avec la BDD.
